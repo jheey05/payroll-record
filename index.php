@@ -18,7 +18,9 @@
         <button class="btn btn1" >Teaching Employee</button>
     </a>
 
-    
+    <a href="nonteachingemployee_record.php">
+    <button class="btn btn2">Non-Teaching Employee</button>
+    </a>
 
 </div>
     </body>
