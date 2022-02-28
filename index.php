@@ -14,7 +14,7 @@
 <div class="container">
     <h1>Welcome to ABCS Institute</h1>
 
-    <a href="teachingemployee_record.php">
+    <a href="/teachingemployee_record.php">
         <button class="btn btn1" >Teaching Employee</button>
     </a>
 
